@@ -73,6 +73,8 @@
       </div>
       <p class="legal">
         By submitting, you confirm that you agree to and have read our <a href="/privacy">privacy policy</a>
+        <br>
+        Your email, user agent, IP address, city, and region will be collected.
       </p>
     </form>
   </div>
